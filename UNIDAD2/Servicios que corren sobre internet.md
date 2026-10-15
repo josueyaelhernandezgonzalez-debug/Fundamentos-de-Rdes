@@ -1,0 +1,1 @@
+internet es la infraestructura; la Web, el correo electrónico, e streaming son aplicaciones que se ejecutan sobre ella, no la red misma
