@@ -1,3 +1,4 @@
+Que es el internet
 es la red de redes 
 Ninguna empresa ni gobierno administra internet como un todo; cada red que la compone es administrada de forma independiente y se conecta a las demás por acuerdo mutuo.
 ### ¿Qué la hace funcionar?

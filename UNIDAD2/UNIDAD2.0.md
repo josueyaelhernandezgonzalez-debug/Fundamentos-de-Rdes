@@ -1,4 +1,4 @@
-
+Clasificación por alcance
 
 una forma común de clasificar redes es por el tamaño del área que cubren: de un dispositivo personal a una red que conectan ciudades enteras 
 
